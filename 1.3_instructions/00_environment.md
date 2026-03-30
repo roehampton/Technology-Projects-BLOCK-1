@@ -15,5 +15,4 @@ as --version
 ld --version
 python3 --version
 ```
-**Evidence to commit**:
-- `journal/00_setup.md` with version snippets and a one-paragraph note: *What is ARM? How is it different from x86 in this context?*
+**Evidence to commit**: Create a folder named `screeshots\` and upload images showing what you have done.
