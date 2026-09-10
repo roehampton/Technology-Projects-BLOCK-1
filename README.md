@@ -13,14 +13,15 @@ You will:
 
 ## 📁 Repository Structure
 
-1. WEEK 1: `1.1_hardware/`
-   - `01_git/` — Git/GitHub workflow notes
-   - `02_computers/` — Hardware vs software, device teardown, and reflection
+1. WEEK 1: `1.1_software/`
+   - `01_intro_git/` — Git/GitHub workflow notes
+   - `02_CLI/` — Terminal basics (file operations, editors, system info)
+   - `03_github_sync/` - GitHub synchronisation
 
 2. WEEK 2: `1.2_logic/`
-   - `01_number_systems/` — Conversions, binary arithmetic, 2’s complement, fixed point, limits
-   - `02_truth_tables/` — Boolean logic and truth table exercises
-   - `03_CLI/` — Terminal basics (file operations, editors, system info)
+   - `01_computers/` — Hardware vs software, device teardown, and reflection 
+   - `02_number_systems/` — Conversions, binary arithmetic, 2’s complement, fixed point, limits
+   - `03_truth_tables/` — Boolean logic and truth table exercises
 
 3. WEEK 3: `1.3_instructions/`
    - `00_environment.md` — Setup for programming environment
@@ -38,7 +39,7 @@ You will:
 
 ## 🧭 How to use this journal
 
-1. Start in `1.1_hardware` and follow the numbered activity files. Read the instructions, complete the task, then write your answers directly in the file or your copy.
+1. Start in `1.1_software` and follow the numbered activity files. Read the instructions, complete the task, then write your answers directly in the file or your copy.
 2. Move to `1.2_logic` for number systems and CLI work. Do exercises in order; each page builds a concept from the prior.
 3. Review `1.3_instructions` for programming language exploration. Focus on syntax, compile/run workflow, and written reflections.
 4. Finish in `1.4_bechmarking` with performance measurement labs, diagrams, and comparison notes.
