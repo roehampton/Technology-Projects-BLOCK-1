@@ -4,7 +4,10 @@
 
 ### Basic Completion
 
-| $A$ | $B$ | $`A\times B`$ | $A+B$ |
+Output 1 = $A\times B$
+Output 2 = $A+B$
+
+| $A$ | $B$ | Output 1 | Output 2 |
 |:---:|:---:|:---------:|:--------:|
 | 0 | 0 |    ?    |   ?    |
 | 0 | 1 |    ?    |   ?    |
