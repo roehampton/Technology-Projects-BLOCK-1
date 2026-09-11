@@ -5,6 +5,7 @@
 ### Basic Completion
 
 Output 1 = $A\times B$
+
 Output 2 = $A+B$
 
 | $A$ | $B$ | Output 1 | Output 2 |
@@ -16,7 +17,13 @@ Output 2 = $A+B$
 
 ### Compound Expression
 
-| $A$ | $B$ | $C$ | $A + B$ | $\overline C$ | $(A + B) \times \overline C$ |
+Output 1 = $A + B$
+
+Output 2 = $\overline C$
+
+Output 3 = $(A + B) \times \overline C$
+
+| $A$ | $B$ | $C$ | Output 1 | Output 2  | Output 3 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 0 | 0 | 0 |   ?    |   ?    |         ?          |
 | 0 | 0 | 1 |   ?    |   ?    |         ?          |
