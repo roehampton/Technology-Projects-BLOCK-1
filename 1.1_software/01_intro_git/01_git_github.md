@@ -59,7 +59,7 @@ cd repository-name
 ```
 Example:
 ```bash
-cd 1.1_hardware
+cd 1.1_softaware
 ```
 
 ### **Verify Everything Worked**
