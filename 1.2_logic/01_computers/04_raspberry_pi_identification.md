@@ -8,14 +8,14 @@ images/raspberry-pi/labelled-pi-board.jpg
 
 | Component | Function |
 |-----------|----------|
-| SoC | |
-| GPIO | |
-| USB | |
-| HDMI | |
-| Power | |
-| microSD | |
-| Network | |
-| Wireless | |
+| SoC | combines the CPU, GPU and memory controller in one chip |
+| GPIO | input and output pins used to connect and control electronics |
+| USB | ports for connecting peripherals like a keyboard |
+| HDMI | sends video and audio to a monitor  |
+| Power | USB-C port that supplies 5V power to the board |
+| microSD | slot for the microSD card |
+| Network | ethernet port for a wired internet or local network connection |
+| Wireless | chip that provides Wi-Fi and Bluetooth |
 
 ---
 ## Reflection

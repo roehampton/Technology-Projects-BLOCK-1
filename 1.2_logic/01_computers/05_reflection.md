@@ -1,7 +1,6 @@
 # Part 5 – Final Reflection
-Write **200–300 words** describing your learning experience during this lab.
-Consider:
-* What surprised you about computer hardware?
-* What components were new to you?
-* What challenges did you face?
-* What did you learn about embedded systems?
+
+
+
+I had already used a Raspberry Pi before this lab, so I knew the basics of what it is and how to set it up. But I mostly used it as a small computer to run projects on, and I never really looked closely at the hardware itself. This lab made me actually pay attention to what is on the board and what each part does. What surprised me was comparing it to a normal desktop PC. In a desktop every part is separate the CPU, RAM, graphics card, power supply and so on. On the Pi almost everything is packed together, and the SoC does the job of the CPU and GPU at the same time. I knew it was a small computer, but I didn't think about how much is happening in such a tiny space. Not many components were completely new to me, but I learned more about some of them. For example I didn't really know the difference between the SoC and a regular CPU, or which chip on the board is the wireless module. Filling in the specifications also made me look up things like the type of RAM and the power the board needs. The main challenge was actually the Git and Markdown part. I had some problems with the terminal, like being in the wrong folder, and getting the image paths right so the pictures show up properly. Overall the lab helped me understand why embedded systems are built this way. Putting everything on one board makes them cheap, small and low power, which is perfect for projects where a big computer doesn't make sense.
+

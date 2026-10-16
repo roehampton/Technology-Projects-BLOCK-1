@@ -1,21 +1,23 @@
 ## Conversion from One Base to Another
+
 1. **Convert the decimal number 156 to:**
-   - Binary
-   - Octal
-   - Hexadecimal
 
+   * Binary 10011100
+   * Octal 234
+   * Hexadecimal  9C
 2. **Convert the binary number 101101 to:**
-   - Decimal
-   - Octal
-   - Hexadecimal
 
+   * Decimal 45
+   * Octal 55
+   * Hexadecimal 2D
 3. **Convert the octal number 745 to:**
-   - Decimal
-   - Binary
-   - Hexadecimal
 
+   * Decimal 485
+   * Binary 111100101
+   * Hexadecimal 2D
 4. **Convert the hexadecimal number 3F9 to:**
-   - Decimal
-   - Binary
-   - Octal
+
+   * Decimal 1017
+   * Binary 1111110001
+   * Octal 1771
 

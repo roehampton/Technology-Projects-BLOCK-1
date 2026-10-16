@@ -194,3 +194,4 @@ Create Pull Request
 ```
 
 Congratulations! You have successfully used the standard GitHub workflow used by software developers and open-source projects around the world.
+Activity 1 completed by S3N
