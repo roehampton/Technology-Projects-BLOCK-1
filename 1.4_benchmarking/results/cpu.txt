@@ -1,0 +1,3 @@
+Execution time: 3.9090498510001908 seconds
+temp=42.9'C
+CPU usage:5.2%

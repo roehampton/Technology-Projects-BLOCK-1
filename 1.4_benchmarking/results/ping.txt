@@ -1,0 +1,3 @@
+--- 10.248.172.10 ping statistics ---
+30 packets transmitted, 30 received, 0% packet loss, time 29641ms
+rtt min/avg/max/mdev = 0.626/0.731/0.899/0.061 ms

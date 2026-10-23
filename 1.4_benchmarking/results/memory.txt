@@ -1,0 +1,7 @@
+Memory allocation time: 1.2211896799999522
+mem total:905Mi
+mem used: 589Mi
+mem free: 81Mi
+mem shared: 18Mi
+mem buff/cache: 307Mi
+mem available: 315Mi

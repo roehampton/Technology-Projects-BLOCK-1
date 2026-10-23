@@ -1,0 +1,60 @@
+
+main:     file format elf64-littleaarch64
+
+
+Disassembly of section .init:
+
+00000000000005d0 <_init>:
+ 5d0:	d503233f 	paciasp
+ 5d4:	a9bf7bfd 	stp	x29, x30, [sp, #-16]!
+ 5d8:	910003fd 	mov	x29, sp
+ 5dc:	94000036 	bl	6b4 <call_weak_fn>
+ 5e0:	a8c17bfd 	ldp	x29, x30, [sp], #16
+ 5e4:	d50323bf 	autiasp
+ 5e8:	d65f03c0 	ret
+
+Disassembly of section .plt:
+
+00000000000005f0 <.plt>:
+ 5f0:	a9bf7bf0 	stp	x16, x30, [sp, #-16]!
+ 5f4:	f00000f0 	adrp	x16, 1f000 <__abi_tag+0x1e704>
+ 5f8:	f947fe11 	ldr	x17, [x16, #4088]
+ 5fc:	913fe210 	add	x16, x16, #0xff8
+ 600:	d61f0220 	br	x17
+ 604:	d503201f 	nop
+ 608:	d503201f 	nop
+ 60c:	d503201f 	nop
+
+0000000000000610 <__libc_start_main@plt>:
+ 610:	90000110 	adrp	x16, 20000 <__libc_start_main@GLIBC_2.34>
+ 614:	f9400211 	ldr	x17, [x16]
+ 618:	91000210 	add	x16, x16, #0x0
+ 61c:	d61f0220 	br	x17
+
+0000000000000620 <__cxa_finalize@plt>:
+ 620:	90000110 	adrp	x16, 20000 <__libc_start_main@GLIBC_2.34>
+ 624:	f9400611 	ldr	x17, [x16, #8]
+ 628:	91002210 	add	x16, x16, #0x8
+ 62c:	d61f0220 	br	x17
+
+0000000000000630 <__gmon_start__@plt>:
+ 630:	90000110 	adrp	x16, 20000 <__libc_start_main@GLIBC_2.34>
+ 634:	f9400a11 	ldr	x17, [x16, #16]
+ 638:	91004210 	add	x16, x16, #0x10
+ 63c:	d61f0220 	br	x17
+
+0000000000000640 <abort@plt>:
+ 640:	90000110 	adrp	x16, 20000 <__libc_start_main@GLIBC_2.34>
+ 644:	f9400e11 	ldr	x17, [x16, #24]
+ 648:	91006210 	add	x16, x16, #0x18
+ 64c:	d61f0220 	br	x17
+
+0000000000000650 <printf@plt>:
+ 650:	90000110 	adrp	x16, 20000 <__libc_start_main@GLIBC_2.34>
+ 654:	f9401211 	ldr	x17, [x16, #32]
+ 658:	91008210 	add	x16, x16, #0x20
+ 65c:	d61f0220 	br	x17
+
+Disassembly of section .text:
+
+0000000000000680 <_start>:

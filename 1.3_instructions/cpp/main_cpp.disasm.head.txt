@@ -1,0 +1,60 @@
+
+main:     file format elf64-littleaarch64
+
+
+Disassembly of section .init:
+
+00000000000007c0 <_init>:
+ 7c0:	d503233f 	paciasp
+ 7c4:	a9bf7bfd 	stp	x29, x30, [sp, #-16]!
+ 7c8:	910003fd 	mov	x29, sp
+ 7cc:	9400003a 	bl	8b4 <call_weak_fn>
+ 7d0:	a8c17bfd 	ldp	x29, x30, [sp], #16
+ 7d4:	d50323bf 	autiasp
+ 7d8:	d65f03c0 	ret
+
+Disassembly of section .plt:
+
+00000000000007e0 <.plt>:
+ 7e0:	a9bf7bf0 	stp	x16, x30, [sp, #-16]!
+ 7e4:	f00000f0 	adrp	x16, 1f000 <__abi_tag+0x1e4ec>
+ 7e8:	f947fe11 	ldr	x17, [x16, #4088]
+ 7ec:	913fe210 	add	x16, x16, #0xff8
+ 7f0:	d61f0220 	br	x17
+ 7f4:	d503201f 	nop
+ 7f8:	d503201f 	nop
+ 7fc:	d503201f 	nop
+
+0000000000000800 <__cxa_finalize@plt>:
+ 800:	90000110 	adrp	x16, 20000 <__cxa_finalize@GLIBC_2.17>
+ 804:	f9400211 	ldr	x17, [x16]
+ 808:	91000210 	add	x16, x16, #0x0
+ 80c:	d61f0220 	br	x17
+
+0000000000000810 <__libc_start_main@plt>:
+ 810:	90000110 	adrp	x16, 20000 <__cxa_finalize@GLIBC_2.17>
+ 814:	f9400611 	ldr	x17, [x16, #8]
+ 818:	91002210 	add	x16, x16, #0x8
+ 81c:	d61f0220 	br	x17
+
+0000000000000820 <_ZStlsISt11char_traitsIcEERSt13basic_ostreamIcT_ES5_PKc@plt>:
+ 820:	90000110 	adrp	x16, 20000 <__cxa_finalize@GLIBC_2.17>
+ 824:	f9400a11 	ldr	x17, [x16, #16]
+ 828:	91004210 	add	x16, x16, #0x10
+ 82c:	d61f0220 	br	x17
+
+0000000000000830 <_ZNSolsEPFRSoS_E@plt>:
+ 830:	90000110 	adrp	x16, 20000 <__cxa_finalize@GLIBC_2.17>
+ 834:	f9400e11 	ldr	x17, [x16, #24]
+ 838:	91006210 	add	x16, x16, #0x18
+ 83c:	d61f0220 	br	x17
+
+0000000000000840 <abort@plt>:
+ 840:	90000110 	adrp	x16, 20000 <__cxa_finalize@GLIBC_2.17>
+ 844:	f9401211 	ldr	x17, [x16, #32]
+ 848:	91008210 	add	x16, x16, #0x20
+ 84c:	d61f0220 	br	x17
+
+0000000000000850 <_ZNSolsEi@plt>:
+ 850:	90000110 	adrp	x16, 20000 <__cxa_finalize@GLIBC_2.17>
+ 854:	f9401611 	ldr	x17, [x16, #40]

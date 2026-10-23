@@ -1,0 +1,2 @@
+low temp: 50.5'C
+high temp: 67.7'C

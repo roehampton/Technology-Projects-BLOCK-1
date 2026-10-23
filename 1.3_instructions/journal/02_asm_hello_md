@@ -1,0 +1,3 @@
+r0, r1, and r2 are registers for first, second and third argument.
+r7 is a system call number register and svc #0 does a system call.
+
