@@ -1,0 +1,6 @@
+
+CPU Speed Test Results
+
+Execution time: 1.0240858509998816 seconds
+CPU temperature: See thermal evidence
+CPU usage in htop: See htop screenshot

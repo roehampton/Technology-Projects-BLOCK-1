@@ -1,0 +1,6 @@
+
+Thermal Test Results
+
+CPU temperature observed: 53.0°C
+Stress test duration: 30 seconds
+
