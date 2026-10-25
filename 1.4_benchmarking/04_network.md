@@ -19,3 +19,5 @@ ping <server-ip> -c 30
 📁 Save:
 - `results/iperf.txt`
 - `results/ping.txt`
+<img width="4096" height="3072" alt="1554" src="https://github.com/user-attachments/assets/1010ccc1-bfd0-4953-82b9-f382ba2488c1" />
+<img width="4096" height="3072" alt="1555" src="https://github.com/user-attachments/assets/c7ee9b29-1c50-446e-b571-85bfcc6a55a7" />

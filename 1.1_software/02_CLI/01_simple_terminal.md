@@ -25,9 +25,11 @@ Learn how to check where you are and explore folders.
    ```
 
 **Submit a screenshot of every step to the images folder**
-`images/CLI_step1.jpg`
+`images/CLI_step1.jpg`<img width="4096" height="3072" alt="1309" src="https://github.com/user-attachments/assets/b173adcb-00bc-45af-947b-0ffbfa7d69e0" />
 
-`images/CLI_step2.jpg`
+
+`images/CLI_step2.jpg`<img width="4096" height="3072" alt="1310" src="https://github.com/user-attachments/assets/4d7a0c70-0d7d-4c9d-8c79-bfc72025d2bd" />
+
 
 `images/CLI_step3.jpg`
 

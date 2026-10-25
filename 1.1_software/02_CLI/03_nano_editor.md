@@ -21,6 +21,9 @@ Learn to create and edit text files from the CLI.
    ```bash
    cat notes.txt
    ```
+   
+<img width="3072" height="4096" alt="1313" src="https://github.com/user-attachments/assets/e5b22648-94d0-46f2-a1c3-457374f1dfec" />
+
 
 **Commit and push the changes**
 

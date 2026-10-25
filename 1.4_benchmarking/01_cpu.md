@@ -25,3 +25,5 @@ vcgencmd measure_temp
 - CPU usage in `htop`
 
 📁 Save results in `results/cpu.txt`
+<img width="3072" height="4096" alt="1546" src="https://github.com/user-attachments/assets/371aeb81-8100-48ed-8bd7-a479ec0e0ab1" />
+<img width="3072" height="1036" alt="1683" src="https://github.com/user-attachments/assets/7c247da6-9699-4bb0-9556-084c77ca0736" />
