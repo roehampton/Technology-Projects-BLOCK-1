@@ -7,7 +7,7 @@ images/components/
 
 | Component | Function | Key Specification |
 |----------|----------|------------------|
-| CPU | | |
+| CPU | | |The CPU is the brain of the computer. It processes instructions and performs calculations to run programs. Clock speed (GHz), number of cores and threa
 | RAM | | |
 | Storage | | |
 | Motherboard | | |
