@@ -25,14 +25,9 @@ Learn how to check where you are and explore folders.
    ```
 
 **Submit a screenshot of every step to the images folder**
-`images/CLI_step1.jpg`
-
-`images/CLI_step2.jpg`
-
-`images/CLI_step3.jpg`
-
-`images/CLI_step4.jpg`
-
-`images/CLI_step5.jpg`
-
-`images/CLI_step6.jpg`
+![Step 1](images/CLI_step1.jpg.png)
+![Step 2](images/CLI_step2.jpg.png)
+![Step 3](images/CLI_step3.jpg.png)
+![Step 4](images/CLI_step4.jpg.png)
+![Step 5](images/CLI_step5.jpg.png)
+![Step 6](images/CLI_step6.jpg.png)

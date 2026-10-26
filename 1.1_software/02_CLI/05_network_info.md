@@ -19,5 +19,6 @@ Explore network tools and check connectivity.
    ```
 
 **Upload screenshots for every step**
-
-
+![Step1](images/CLI_a5_1.png)
+![Step2](images/CLI_a5_2.png)
+![Step3](images/CLI_a5_3.png)

@@ -1,0 +1,3 @@
+This is my first Raspberry Pi CLI note!
+notes3 for Activity 3
+Thank you!
