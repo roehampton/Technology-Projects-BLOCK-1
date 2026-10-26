@@ -15,3 +15,5 @@ watch -n 2 vcgencmd measure_temp
 📁 Save results in:
 - `results/thermal.txt` or
 - `results/temperature.csv`
+
+<img width="1600" height="1200" alt="week 4 exe 5 a" src="https://github.com/user-attachments/assets/c97468ca-3274-4c40-9e3d-a37dcd60bb60" />
