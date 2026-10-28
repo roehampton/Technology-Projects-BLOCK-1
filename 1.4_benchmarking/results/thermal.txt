@@ -1,0 +1,13 @@
+Temperature and Throttling Test
+
+Stress test:
+stress --cpu 4 --timeout 30
+
+Temperature:
+Monitored using sensors/Windows monitoring tools.
+
+Observations:
+- CPU was placed under sustained load for 30 seconds.
+- CPU utilisation reached near 100%.
+- No noticeable system instability occurred.
+- No obvious thermal throttling was observed.

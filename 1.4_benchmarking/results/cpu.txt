@@ -1,0 +1,12 @@
+CPU Benchmark
+
+Execution time: 0.4469893469999988 seconds
+
+CPU Usage:
+Observed in htop.
+CPU usage increased significantly during the benchmark.
+
+Observations:
+- CPU-intensive workload completed successfully.
+- CPU utilisation increased while script was running.
+- System remained responsive.

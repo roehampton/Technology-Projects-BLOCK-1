@@ -1,0 +1,13 @@
+Network Latency Test
+
+Minimum latency:
+0.070 ms
+
+Average latency:
+0.109 ms
+
+Maximum latency:
+0.462 ms
+
+Packet loss:
+0.067%

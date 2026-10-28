@@ -1,0 +1,11 @@
+Memory Allocation Test
+
+Memory allocation time: 0.21648621800022738 seconds
+
+Memory Usage:
+Checked using free -h.
+
+Observations:
+- Large NumPy array allocated successfully.
+- Memory usage increased during allocation.
+- System remained responsive.

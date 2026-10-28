@@ -1,0 +1,7 @@
+Network Bandwidth Test
+
+Bandwidth:
+11.6 Gbits/sec
+
+Observation:
+Local network test completed successfully.

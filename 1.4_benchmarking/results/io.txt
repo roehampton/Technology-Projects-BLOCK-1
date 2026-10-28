@@ -1,0 +1,12 @@
+Storage Read/Write Benchmark
+
+Write speed:
+69.8 MB/s
+
+Read speed:
+79.1 MB/s
+
+Observations:
+- Write operation completed successfully.
+- Read operation was faster than write operation.
+- Storage performance was adequate for general computing tasks.

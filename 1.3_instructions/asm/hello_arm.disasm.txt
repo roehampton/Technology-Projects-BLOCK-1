@@ -1,0 +1,21 @@
+
+asm/hello_arm:     file format elf32-littlearm
+
+
+Disassembly of section .text:
+
+00008000 <_start>:
+    8000:	e3a00001 	mov	r0, #1
+    8004:	e59f1020 	ldr	r1, [pc, #32]	@ 802c <msg+0x10>
+    8008:	e3a0200e 	mov	r2, #14
+    800c:	e3a07004 	mov	r7, #4
+    8010:	ef000000 	svc	0x00000000
+    8014:	e3a07001 	mov	r7, #1
+    8018:	ef000000 	svc	0x00000000
+
+0000801c <msg>:
+    801c:	6c6c6548 	.word	0x6c6c6548
+    8020:	5241206f 	.word	0x5241206f
+    8024:	6950204d 	.word	0x6950204d
+    8028:	00000a21 	.word	0x00000a21
+    802c:	0000801c 	.word	0x0000801c
