@@ -19,5 +19,5 @@ Use CLI commands to inspect your system.
    ```
 
 **Upload screenshots for every step**
-
+![img alt](screenshots/ss_8.png)
 

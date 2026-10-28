@@ -6,7 +6,9 @@ Practise working with files and folders.
 
 ### 📝 Tasks
 
+
 *Push everything to your GitHub assigment. Make as many commits as needed.*
+
 
 1. Create a new folder called `practice` in your CLI directory:
    ```bash
@@ -32,4 +34,5 @@ Practise working with files and folders.
    ```bash
    rm file2.txt
    ```
-
+![image alt](screenshots/ss_7.png)
+   
