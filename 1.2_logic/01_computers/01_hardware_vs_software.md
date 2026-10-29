@@ -1,12 +1,6 @@
-# Part 1 – Hardware vs Software
-
 ## Explain Hardware
-Write **at least 50 words** explaining what hardware is.
----
-
+Hardware refers to the physical parts of a computer or electronic device that you can see and touch. Examples of hardware include the keyboard, mouse, monitor, printer, motherboard, hard drive, and processor (CPU). Each component has a specific job that helps the computer function. For example, the keyboard allows users to enter information, while the monitor displays images and text. Hardware needs software to give it instructions and help it perform tasks correctly.
 ## Explain Software
-Write **at least 50 words** explaining what software is.
----
-
+Software is a collection of programs, applications, and instructions that tell a computer or electronic device what to do. Unlike hardware, software cannot be physically touched. Examples of software include operating systems such as Windows and macOS, web browsers such as Google Chrome, and applications such as Microsoft Word. Software allows users to complete tasks, including writing documents, browsing the internet, playing games, and editing photos. Without software, a computer's hardware would not know what tasks to perform.
 ## How Do Hardware and Software Interact?
-Write **at least 50 words** describing how they interact.
+Hardware and software work together to make a computer function properly. Software provides instructions, while hardware carries out those instructions. For example, when you type a document using a word-processing application, the keyboard sends your input to the computer, the software processes the information, and the monitor displays the words on the screen. The processor executes the software's instructions, while memory helps store information temporarily. Hardware and software depend on each other: hardware needs software to perform useful tasks, and software needs hardware to run. Together, they allow computers to perform a wide variety of activities.
