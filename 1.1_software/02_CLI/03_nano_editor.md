@@ -1,6 +1,6 @@
-## ⭐ Activity 3: Editing Text with nano
+## ⭐ Activity 3: Editing with nano
 
-### 🎯 Goal  
+### 🎯 Goal
 Learn to create and edit text files from the CLI.
 
 ### 📝 Tasks
@@ -10,11 +10,10 @@ Learn to create and edit text files from the CLI.
    ```
 2. Inside nano, write:
    ```
-   This is my first Raspberry Pi CLI note!
    ```
 3. Save and exit using:
-   - **CTRL + O** (save)  
-   - **ENTER** (confirm)  
+   - **CTRL + O** (save)
+   - **ENTER** (confirm)
    - **CTRL + X** (exit)
 
 4. View the file contents:
@@ -23,4 +22,7 @@ Learn to create and edit text files from the CLI.
    ```
 
 **Commit and push the changes**
+
+![alt text](<Editing Text with nano.png>)
+
 

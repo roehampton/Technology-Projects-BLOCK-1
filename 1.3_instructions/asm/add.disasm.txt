@@ -1,0 +1,11 @@
+
+add:     file format elf64-x86-64
+
+
+Disassembly of section .text:
+
+0000000000401000 <_start>:
+  401000:	48 c7 c7 05 00 00 00 	mov    $0x5,%rdi
+  401007:	48 83 c7 03          	add    $0x3,%rdi
+  40100b:	48 c7 c0 3c 00 00 00 	mov    $0x3c,%rax
+  401012:	0f 05                	syscall

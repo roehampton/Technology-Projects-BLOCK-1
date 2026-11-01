@@ -1,7 +1,7 @@
 
 ## ⭐ Activity 2: Creating and Managing Files
 
-### 🎯 Goal  
+### 🎯 Goal
 Practise working with files and folders.
 
 ### 📝 Tasks
@@ -33,3 +33,4 @@ Practise working with files and folders.
    rm file2.txt
    ```
 
+![alt text](<Creating and Managing Files.png>)

@@ -1,7 +1,7 @@
 
 ## ⭐ Activity 4: Basic System Info
 
-### 🎯 Goal  
+### 🎯 Goal
 Use CLI commands to inspect your system.
 
 ### 📝 Tasks
@@ -20,4 +20,4 @@ Use CLI commands to inspect your system.
 
 **Upload screenshots for every step**
 
-
+![alt text](<Basic System Info.png>)

@@ -1,6 +1,6 @@
 ## ⭐ Activity 5: Networking Basics
 
-### 🎯 Goal  
+### 🎯 Goal
 Explore network tools and check connectivity.
 
 ### 📝 Tasks
@@ -19,5 +19,7 @@ Explore network tools and check connectivity.
    ```
 
 **Upload screenshots for every step**
+
+![alt text](<Networking Basics.png>)
 
 

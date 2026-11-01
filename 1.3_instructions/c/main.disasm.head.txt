@@ -1,0 +1,60 @@
+
+main:     file format elf64-x86-64
+
+
+Disassembly of section .init:
+
+0000000000001000 <_init>:
+    1000:	f3 0f 1e fa          	endbr64
+    1004:	48 83 ec 08          	sub    $0x8,%rsp
+    1008:	48 8b 05 c1 2f 00 00 	mov    0x2fc1(%rip),%rax        # 3fd0 <__gmon_start__>
+    100f:	48 85 c0             	test   %rax,%rax
+    1012:	74 02                	je     1016 <_init+0x16>
+    1014:	ff d0                	call   *%rax
+    1016:	48 83 c4 08          	add    $0x8,%rsp
+    101a:	c3                   	ret
+
+Disassembly of section .plt:
+
+0000000000001020 <printf@plt-0x10>:
+    1020:	ff 35 ca 2f 00 00    	push   0x2fca(%rip)        # 3ff0 <_GLOBAL_OFFSET_TABLE_+0x8>
+    1026:	ff 25 cc 2f 00 00    	jmp    *0x2fcc(%rip)        # 3ff8 <_GLOBAL_OFFSET_TABLE_+0x10>
+    102c:	0f 1f 40 00          	nopl   0x0(%rax)
+
+0000000000001030 <printf@plt>:
+    1030:	ff 25 ca 2f 00 00    	jmp    *0x2fca(%rip)        # 4000 <printf@GLIBC_2.2.5>
+    1036:	68 00 00 00 00       	push   $0x0
+    103b:	e9 e0 ff ff ff       	jmp    1020 <_init+0x20>
+
+Disassembly of section .text:
+
+0000000000001040 <_start>:
+    1040:	f3 0f 1e fa          	endbr64
+    1044:	31 ed                	xor    %ebp,%ebp
+    1046:	49 89 d1             	mov    %rdx,%r9
+    1049:	5e                   	pop    %rsi
+    104a:	48 89 e2             	mov    %rsp,%rdx
+    104d:	48 83 e4 f0          	and    $0xfffffffffffffff0,%rsp
+    1051:	50                   	push   %rax
+    1052:	54                   	push   %rsp
+    1053:	45 31 c0             	xor    %r8d,%r8d
+    1056:	31 c9                	xor    %ecx,%ecx
+    1058:	48 8d 3d da 00 00 00 	lea    0xda(%rip),%rdi        # 1139 <main>
+    105f:	ff 15 5b 2f 00 00    	call   *0x2f5b(%rip)        # 3fc0 <__libc_start_main@GLIBC_2.34>
+    1065:	f4                   	hlt
+    1066:	66 2e 0f 1f 84 00 00 	cs nopw 0x0(%rax,%rax,1)
+    106d:	00 00 00 
+
+0000000000001070 <deregister_tm_clones>:
+    1070:	48 8d 3d a1 2f 00 00 	lea    0x2fa1(%rip),%rdi        # 4018 <__TMC_END__>
+    1077:	48 8d 05 9a 2f 00 00 	lea    0x2f9a(%rip),%rax        # 4018 <__TMC_END__>
+    107e:	48 39 f8             	cmp    %rdi,%rax
+    1081:	74 15                	je     1098 <deregister_tm_clones+0x28>
+    1083:	48 8b 05 3e 2f 00 00 	mov    0x2f3e(%rip),%rax        # 3fc8 <_ITM_deregisterTMCloneTable>
+    108a:	48 85 c0             	test   %rax,%rax
+    108d:	74 09                	je     1098 <deregister_tm_clones+0x28>
+    108f:	ff e0                	jmp    *%rax
+    1091:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+    1098:	c3                   	ret
+    1099:	0f 1f 80 00 00 00 00 	nopl   0x0(%rax)
+
