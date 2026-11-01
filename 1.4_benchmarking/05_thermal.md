@@ -4,6 +4,7 @@
 ```bash
 stress --cpu 4 --timeout 30
 ```
+<img width="955" height="599" alt="Screenshot 2026-11-01 004758" src="https://github.com/user-attachments/assets/0d440801-77b0-4abf-a91e-1c1f0cbae008" />
 
 ### 2️⃣ In another terminal, monitor temperature:
 ```bash
