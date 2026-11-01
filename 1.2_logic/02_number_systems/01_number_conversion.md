@@ -10,12 +10,12 @@
    - Hexadecimal = 20
 
 3. **Convert the octal number 745 to:**
-   - Decimal
-   - Binary
-   - Hexadecimal
+   - Decimal=485
+   - Binary=111100101
+   - Hexadecimal=1E5
 
 4. **Convert the hexadecimal number 3F9 to:**
-   - Decimal
-   - Binary
-   - Octal
+   - Decimal=1017
+   - Binary=1111111001
+   - Octal=1771
 
