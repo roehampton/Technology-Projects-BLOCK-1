@@ -14,7 +14,8 @@ Learn how to check where you are and explore folders.
    cd Technology_Projects
    cd Week 02
    cd CLI
-   ```
+   ```<img width="4096" height="3072" alt="1309" src="https://github.com/user-attachments/assets/e6cb2979-8006-4bf0-a681-5523a800583f" />
+
 5. Inside that folder, list all files (including hidden ones):
    ```bash
    ls -a
