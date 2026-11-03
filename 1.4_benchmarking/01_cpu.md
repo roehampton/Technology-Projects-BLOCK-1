@@ -18,9 +18,15 @@ print('Execution time:', end - start, 'seconds')
 
 ### 2️⃣ Record:
 - Execution time
+- <img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/d6393e9e-ddaf-4d54-9fa9-b9a9d9ddccf6" />
+
 - CPU temperature:
+- <img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/7785deb8-0a0f-4916-add5-dd9c0a7560aa" />
+
 ```bash
 vcgencmd measure_temp
+<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/f7ebe4c0-78c7-447a-87a9-5295662c4e35" />
+
 ```
 - CPU usage in `htop`
 
