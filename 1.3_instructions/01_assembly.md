@@ -53,5 +53,6 @@ objdump -d hello_arm > hello_arm.disasm.txt
 - Explain the role of `r0`, `r1`, `r2`, and `r7` in this program.
 - What does `svc #0` do on Linux/ARM?
 - Include a screenshot showing the message.
+<img width="3072" height="4096" alt="1306" src="https://github.com/user-attachments/assets/b337da34-39bd-42da-9e52-214ff40f971f" />
 
 ---
