@@ -18,4 +18,5 @@ free -h
 ```
 
 📁 Save results in `results/memory.txt`
-<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/b78eab80-7726-4cfc-adf3-573340755ba7" />
+<img width="1920" height="863" alt="image" src="https://github.com/user-attachments/assets/7c9a6407-cae8-4e80-b23e-7be10a3b93a6" />
+
