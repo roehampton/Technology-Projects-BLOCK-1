@@ -10,10 +10,10 @@ Output 2 = $A+B$
 
 | $A$ | $B$ | Output 1 | Output 2 |
 |:---:|:---:|:---------:|:--------:|
-| 0 | 0 |    ?    |   ?    |
-| 0 | 1 |    ?    |   ?    |
-| 1 | 0 |    ?    |   ?    |
-| 1 | 1 |    ?    |   ?    |
+| 0 | 0 |    0    |   0    |
+| 0 | 1 |    0    |   1    |
+| 1 | 0 |    0    |   1    |
+| 1 | 1 |    1    |   1    |
 
 ### Compound Expression
 
@@ -25,14 +25,14 @@ Output 3 = $(A + B) \times \overline C$
 
 | $A$ | $B$ | $C$ | Output 1 | Output 2  | Output 3 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| 0 | 0 | 0 |   ?    |   ?    |         ?          |
-| 0 | 0 | 1 |   ?    |   ?    |         ?          |
-| 0 | 1 | 0 |   ?    |   ?    |         ?          |
-| 0 | 1 | 1 |   ?    |   ?    |         ?          |
-| 1 | 0 | 0 |   ?    |   ?    |         ?          |
-| 1 | 0 | 1 |   ?    |   ?    |         ?          |
-| 1 | 1 | 0 |   ?    |   ?    |         ?          |
-| 1 | 1 | 1 |   ?    |   ?    |         ?          |
+| 0 | 0 | 0 |   0    |   1    |         0          |
+| 0 | 0 | 1 |   0    |   0    |         0          |
+| 0 | 1 | 0 |   1    |   1    |         1          |
+| 0 | 1 | 1 |   1    |   0    |         0          |
+| 1 | 0 | 0 |   1    |   1    |         1          |
+| 1 | 0 | 1 |   1    |   0    |         0          |
+| 1 | 1 | 0 |   1    |   1    |         1          |
+| 1 | 1 | 1 |   1    |   0    |         0          |
 
 
 ### Match the Expression
@@ -46,6 +46,7 @@ Output 3 = $(A + B) \times \overline C$
 **Truth Tables:**
 
 **Table A**
+$A \oplus B$ (XOR)
 
 | A | B | Output |
 |---|---|--------|
@@ -55,6 +56,7 @@ Output 3 = $(A + B) \times \overline C$
 | 1 | 1 |   0    |
 
 **Table B**
+Truth Table for $A \land B$
 
 | A | B | Output |
 |---|---|--------|
@@ -64,6 +66,7 @@ Output 3 = $(A + B) \times \overline C$
 | 1 | 1 |   1    |
 
 **Table C**
+Truth Table for $A \lor B$
 
 | A | B | Output |
 |---|---|--------|
@@ -73,6 +76,7 @@ Output 3 = $(A + B) \times \overline C$
 | 1 | 1 |   1    |
 
 **Table D**
+Truth Table for $\neg A$
 
 | A | Output |
 |---|--------|

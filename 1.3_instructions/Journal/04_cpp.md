@@ -1,0 +1,2 @@
+
+At a glance, the C++ program's binary may be larger than the C program's binary, and its disassembly may contain extra instructions. Both programs do the same calculation, but C++ uses `cout` and `endl` to display the result, while C uses `printf`. The C++ input/output library can involve additional code, which may make the binary larger and the disassembly longer. The exact size and instructions depend on the compiler, compiler options, and system, so the difference may not always be large.
