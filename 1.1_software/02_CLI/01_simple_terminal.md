@@ -27,3 +27,4 @@ Learn how to check where you are and explore folders.
 
 **Submit a screenshot of every step to the images folder**
 <img width="4096" height="3072" alt="1309" src="https://github.com/user-attachments/assets/e6cb2979-8006-4bf0-a681-5523a800583f" />
+<img width="4096" height="3072" alt="1310" src="https://github.com/user-attachments/assets/00baaebe-1fa8-4d94-8009-c908af8efd9b" />
