@@ -22,4 +22,5 @@ Explore network tools and check connectivity.
 <img width="3072" height="4096" alt="1317" src="https://github.com/user-attachments/assets/ff64e753-b87d-4c21-b497-ed6c516ae64f" />
 
 <img width="3072" height="4096" alt="1318" src="https://github.com/user-attachments/assets/a8664ff9-e47d-4ca4-a974-47e3f5bb3166" />
+<img width="3072" height="4096" alt="1319" src="https://github.com/user-attachments/assets/d1bd045a-d041-48e1-bf63-c6421e7d7183" />
 
