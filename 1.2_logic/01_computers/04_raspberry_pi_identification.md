@@ -26,6 +26,12 @@ images/raspberry-pi/pi-board.jpg
 
 
 
+
+
+
+
+
+
 images/raspberry-pi/labelled-pi-board.jpg
 
 <img width="850" height="557" alt="image" src="https://github.com/user-attachments/assets/1bf2c0c1-e6e3-4741-b843-e49d99c804aa" />
