@@ -24,6 +24,8 @@ Practise working with files and folders.
    ```bash
    mv file1.txt notes.txt
    ```
+   <img width="3072" height="4096" alt="1311" src="https://github.com/user-attachments/assets/1a0814b6-99ea-4ef8-9f63-4a0ce4deeabe" />
+
 5. Copy `notes.txt` to a new file called `notes_backup.txt`:
    ```bash
    cp notes.txt notes_backup.txt
