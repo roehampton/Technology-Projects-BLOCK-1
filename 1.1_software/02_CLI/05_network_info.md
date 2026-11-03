@@ -19,5 +19,6 @@ Explore network tools and check connectivity.
    ```
 
 **Upload screenshots for every step**
+<img width="3072" height="4096" alt="1317" src="https://github.com/user-attachments/assets/ff64e753-b87d-4c21-b497-ed6c516ae64f" />
 
 
