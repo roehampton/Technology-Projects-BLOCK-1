@@ -1,0 +1,3 @@
+# Checkpoint 5 - Python
+
+Interpretation means a program is run by an interpreter, which reads and executes the code as it runs. Compilation means code is translated into another form, often machine code or bytecode, before it runs. Python is commonly described as an interpreted language, although Python implementations usually compile source code to bytecode first, which the Python virtual machine then executes. Compiled programs can often run directly as machine code, while interpreted execution depends on a runtime. Both approaches turn instructions written by a programmer into actions the computer can perform.
