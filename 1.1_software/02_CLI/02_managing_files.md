@@ -33,5 +33,6 @@ Practise working with files and folders.
    ```bash
    rm file2.txt
    ``
-   `<img width="3072" height="4096" alt="1311" src="https://github.com/user-attachments/assets/1a0814b6-99ea-4ef8-9f63-4a0ce4deeabe" />
+  <img width="3072" height="4096" alt="1313" src="https://github.com/user-attachments/assets/8cc2ab2b-8ad8-4abc-9b57-79ec1b5102c5" />
+
 
