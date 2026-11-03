@@ -14,8 +14,8 @@ print('Memory allocation time:', end - start)
 ### 2️⃣ Check memory usage:
 ```bash
 free -h
-<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/066a59b3-3ef7-4cf8-b98a-731ed352b74c" />
 
 ```
 
 📁 Save results in `results/memory.txt`
+<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/b78eab80-7726-4cfc-adf3-573340755ba7" />
