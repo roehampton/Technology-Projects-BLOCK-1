@@ -25,6 +25,8 @@ print('Execution time:', end - start, 'seconds')
 
 ```bash
 vcgencmd measure_temp
+<img width="1920" height="1440" alt="image" src="https://github.com/user-attachments/assets/f7ebe4c0-78c7-447a-87a9-5295662c4e35" />
+
 ```
 - CPU usage in `htop`
 
