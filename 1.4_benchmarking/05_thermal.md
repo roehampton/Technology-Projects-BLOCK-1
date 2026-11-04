@@ -16,3 +16,6 @@ watch -n 2 vcgencmd measure_temp
 📁 Save results in:
 - `results/thermal.txt` or
 - `results/temperature.csv`
+
+- <img width="1600" height="721" alt="WhatsApp Image 2026-11-04 at 13 54 26" src="https://github.com/user-attachments/assets/fdca686a-56d8-47cf-b664-64292f1dd3da" />
+
