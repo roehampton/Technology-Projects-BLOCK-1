@@ -8,14 +8,14 @@ images/raspberry-pi/labelled-pi-board.jpg
 
 | Component | Function |
 |-----------|----------|
-| SoC | |
-| GPIO | |
-| USB | |
-| HDMI | |
-| Power | |
-| microSD | |
-| Network | |
-| Wireless | |
+| SoC |The main processor that runs the computer and handles calculation|
+| GPIO |pin used to connect electronic parts like sensor,light , and buttons. |
+| USB |ports used to plug in a mouse,keyboard,or other devices |
+| HDMI |port used to connect a monitor or tv screen |
+| Power |port used to plug in the charger to give electric power to  the board |
+| microSD |slot for the memory card that holds the operating system and files |
+| Network |used to connect to the internet using an ethernet cable or wifi |
+| Wireless |connects the raspberry pi to the internet and wireless devices like keyboard or speakers without using cable |
 
 ---
 ## Reflection
