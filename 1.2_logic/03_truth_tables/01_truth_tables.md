@@ -56,6 +56,7 @@ OR Gates
 | 1 | 1 |   0    |
 
 **Table B**
+AND Gates
 
 | A | B | Output |
 |---|---|--------|
@@ -65,7 +66,7 @@ OR Gates
 | 1 | 1 |   1    |
 
 **Table C**
-
+OR Gates
 | A | B | Output |
 |---|---|--------|
 | 0 | 0 |   0    |
@@ -74,7 +75,7 @@ OR Gates
 | 1 | 1 |   1    |
 
 **Table D**
-
+NOT Gates
 | A | Output |
 |---|--------|
 | 0 |   1    |
