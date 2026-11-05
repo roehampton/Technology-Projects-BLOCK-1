@@ -22,4 +22,5 @@ images/raspberry-pi/labelled-pi-board.jpg
 Why are many components integrated into a single board in embedded computers such as the Raspberry Pi?
 Write **100 words**.
 
-Answer= Integrating components onto a single board in embedded computers like the raspberry pi embeded computers reduces size,weight and production costs while making the system 
+Answer= Integrating components onto a single board in embedded computers like the raspberry pi embeded computers reduces size,weight and production costs while making the system highly portable and easy to use .combining the CPU,RAM,and wireless chips into one system on chip (Soc) shotens physical connection paths .which increases energy efficiency and speeds up data processing . it eliminates the need for 
+
