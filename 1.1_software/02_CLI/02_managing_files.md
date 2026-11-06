@@ -33,3 +33,5 @@ Practise working with files and folders.
    rm file2.txt
    ```
 
+<img width="1110" height="742" alt="image" src="https://github.com/user-attachments/assets/fb03842f-0cbd-4ce9-94bc-fd1ae2231205" />
+

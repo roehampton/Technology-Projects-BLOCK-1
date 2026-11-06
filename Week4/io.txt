@@ -1,0 +1,9 @@
+1+0 records in
+1+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.4327 s, 73.2 MB/s
+cristinadias@raspberrypi:~/Technology-Projects-BLOCK-1/Week4 $ dd if=/dev/zero of=testfile.bin bs=100M count=1 iflag=direct
+dd: failed to open '/dev/zero': Invalid argument
+cristinadias@raspberrypi:~/Technology-Projects-BLOCK-1/Week4 $ dd if=/dev/zero of=testfile.bin bs=100M count=1 oflag=direct
+1+0 records in
+1+0 records out
+104857600 bytes (105 MB, 100 MiB) copied, 1.44257 s, 72.7 MB/s
