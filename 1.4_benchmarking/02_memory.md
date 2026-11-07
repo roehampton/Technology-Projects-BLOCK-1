@@ -15,3 +15,4 @@ free -h
 ```
 
 📁 Save results in `results/memory.txt`
+<img width="1921" height="1441" alt="IMG_20261107_000336_388" src="https://github.com/user-attachments/assets/cc73d7f7-5bc2-405c-837a-a73672df4f5d" />
