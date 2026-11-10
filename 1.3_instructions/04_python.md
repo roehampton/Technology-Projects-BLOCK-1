@@ -31,6 +31,8 @@ python3 script.py
 
 
 
-
+ 
 - In one paragraph: interpretation vs compilation.
+
+Interpretation and compilation are two different ways off translating programming languages into instructions that a computer can understand. Interpretation and executes the code line by line, meaning errors can be identified as the program runs. Compilation translates the entire program into machine code before it runs, creating an executable file. Interpreted languages are often easier to test and debug, while compiled programs usually run faster because the code has already been translated.
 
