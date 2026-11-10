@@ -66,6 +66,8 @@ objdump -d hello_arm > hello_arm.disasm.txt
 
   r7: It stores the system call number. It tells Linux which operation the program wants to perform, tells how long the message is, and r7 tells Linux which operation to perform.
 
+  
+
 
 
 
@@ -73,6 +75,8 @@ objdump -d hello_arm > hello_arm.disasm.txt
 
 
 - What does `svc #0` do on Linux/ARM?
+
+
   svc #0 is an instruction that sends a request to the Linux operating system. It allows the program to ask the operating system to perform a task, such as displaying a message on the screen or exiting the program. Linux checks the system call number stored in register r7 to know which operation to perform.
 
 
