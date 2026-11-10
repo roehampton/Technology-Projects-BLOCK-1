@@ -2,6 +2,7 @@
 Upload:
 ```
 images/raspberry-pi/pi-board.jpg
+<img width="572" height="475" alt="image" src="https://github.com/user-attachments/assets/906d7c0f-5f62-4dfe-b873-703ae67c2617" />
 
 
 
