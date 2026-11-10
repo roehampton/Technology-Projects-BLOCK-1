@@ -19,5 +19,9 @@ Use CLI commands to inspect your system.
    ```
 
 **Upload screenshots for every step**
+<img width="3072" height="4096" alt="1314" src="https://github.com/user-attachments/assets/02ac13f5-5538-41ef-886b-4312d774b30f" />
+<img width="3072" height="4096" alt="1315" src="https://github.com/user-attachments/assets/07871832-e260-49e0-a4f1-12314d04c657" />
+<img width="3072" height="4096" alt="1316" src="https://github.com/user-attachments/assets/66540026-97d3-4ebf-9ccb-6ce275b0f473" />
+
 
 

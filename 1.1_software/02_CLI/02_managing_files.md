@@ -24,6 +24,7 @@ Practise working with files and folders.
    ```bash
    mv file1.txt notes.txt
    ```
+
 5. Copy `notes.txt` to a new file called `notes_backup.txt`:
    ```bash
    cp notes.txt notes_backup.txt
@@ -31,5 +32,7 @@ Practise working with files and folders.
 6. Delete `file2.txt`:
    ```bash
    rm file2.txt
-   ```
+   ``
+  <img width="3072" height="4096" alt="1313" src="https://github.com/user-attachments/assets/8cc2ab2b-8ad8-4abc-9b57-79ec1b5102c5" />
+
 
