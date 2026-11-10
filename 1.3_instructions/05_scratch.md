@@ -26,3 +26,5 @@ Create a variable `x`, set `x ← 5`, change `x` by `3`, and display the result 
 
 
 - Add a short note in `journal/06_scratch.md`: *How does Scratch’s model relate to the same computation?*
+
+Scratch uses visual programming blocks to perform the same type of computation as a normal programming language. Instead of writing code using text, we connect blocks to give instructions to the computer. For example, Scratch can create a variable, change its value and display the result on the screen. This shows that Scratch performs the same basic operations as other programming languages, but in a simpler and more visual way.
