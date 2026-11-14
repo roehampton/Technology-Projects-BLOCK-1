@@ -15,3 +15,5 @@ free -h
 ```
 
 📁 Save results in `results/memory.txt`
+
+<img width="721" height="1600" alt="WhatsApp Image 2026-11-04 at 13 35 23" src="https://github.com/user-attachments/assets/ca47968b-2067-4b2b-8271-d139114392bd" />
