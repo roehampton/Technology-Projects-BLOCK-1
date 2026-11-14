@@ -16,7 +16,6 @@ end = time.perf_counter()
 print('Execution time:', end - start, 'seconds')
 ```
 
-<img width="721" height="1600" alt="WhatsApp Image 2026-11-04 at 13 35 23" src="https://github.com/user-attachments/assets/26c82118-7c76-4f1c-b211-476f43bcd7f7" />
 
 
 ### 2️⃣ Record:
@@ -29,3 +28,6 @@ vcgencmd measure_temp
 - 
 
 📁 Save results in `results/cpu.txt`
+
+<img width="721" height="1600" alt="WhatsApp Image 2026-11-14 at 11 34 54" src="https://github.com/user-attachments/assets/7f02b813-9ad0-4b84-b540-01125de4938d" />
+
