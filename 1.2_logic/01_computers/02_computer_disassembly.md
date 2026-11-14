@@ -12,7 +12,8 @@ images/system/computer-before.jpg
 Open the computer case and observe the internal components.
 Describe what you see.
 Insert image:
-<img width="362" height="185" alt="image" src="https://github.com/user-attachments/assets/e1b23612-f56f-4a65-af4a-68defa439364" />
+<img width="597" height="335" alt="image" src="https://github.com/user-attachments/assets/84e23e21-87ae-4d3f-88ad-eb5d79a3a026" />
+
 
 ```
 images/system/computer-opened.jpg
