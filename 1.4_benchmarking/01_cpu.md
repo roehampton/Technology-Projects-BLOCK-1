@@ -16,6 +16,8 @@ end = time.perf_counter()
 print('Execution time:', end - start, 'seconds')
 ```
 
+
+
 ### 2️⃣ Record:
 - Execution time
 - CPU temperature:
@@ -23,5 +25,9 @@ print('Execution time:', end - start, 'seconds')
 vcgencmd measure_temp
 ```
 - CPU usage in `htop`
+- 
 
 📁 Save results in `results/cpu.txt`
+
+<img width="721" height="1600" alt="WhatsApp Image 2026-11-14 at 11 34 54" src="https://github.com/user-attachments/assets/7f02b813-9ad0-4b84-b540-01125de4938d" />
+

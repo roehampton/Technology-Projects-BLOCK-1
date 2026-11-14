@@ -32,4 +32,6 @@ Practise working with files and folders.
    ```bash
    rm file2.txt
    ```
+   <img width="955" height="599" alt="Screenshot 2026-11-01 004758" src="https://github.com/user-attachments/assets/114db9e6-134f-45b9-a89a-5232220ca86c" />
+
 
