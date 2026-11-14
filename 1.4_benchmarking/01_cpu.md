@@ -16,6 +16,9 @@ end = time.perf_counter()
 print('Execution time:', end - start, 'seconds')
 ```
 
+<img width="721" height="1600" alt="WhatsApp Image 2026-11-04 at 13 35 23" src="https://github.com/user-attachments/assets/26c82118-7c76-4f1c-b211-476f43bcd7f7" />
+
+
 ### 2️⃣ Record:
 - Execution time
 - CPU temperature:
