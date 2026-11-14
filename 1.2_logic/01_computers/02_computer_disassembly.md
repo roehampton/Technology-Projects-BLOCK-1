@@ -15,6 +15,10 @@ Insert image:
 <img width="597" height="335" alt="image" src="https://github.com/user-attachments/assets/84e23e21-87ae-4d3f-88ad-eb5d79a3a026" />
 
 
+
+The internal layout of a computer consists of different components, including the processor, RAM, motherboard, graphics card, power supply and storage devices. The processor handles instructions, RAM temporarily stores data, and the motherboard connects all components. The graphics card processes images, the power supply provides electricity, and storage devices save files and programs. All these components work together to make the computer function properly.
+
+
 ```
 images/system/computer-opened.jpg
 ```
